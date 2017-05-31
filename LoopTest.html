@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        div {width:100px; height: 200px; float :left; background: #CCC; margin : 10px;}
+    </style>
+    <script>
+        window.onload = function () {
+            var aDiv = document.getElementsByTagName('div');
+            for (var i = 0; i < aDiv.length; i++) {
+                aDiv[i].style.background = 'red'
+            }
+        }
+    </script>
+</head>
+
+<body>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</body>
+</html>

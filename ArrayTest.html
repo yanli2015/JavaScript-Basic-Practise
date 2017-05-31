@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ArrayTest</title>
+    <script>
+        var a = new Array(1,2,3,4,5,6,7);
+        var b = [11,12,13];
+        alert('a.lenght: ' + a.length);
+        a.length = 2;
+        alert("After changing a's length to 2: "+ a);
+        a.push(10);
+        alert('After push: ' + a);
+        a.pop();
+        alert('After pop: ' + a);
+        alert(' b: '+ b);
+        b.shift(14);
+        alert('Adter shift 14: ' + b);
+        b.unshift();
+        alert('After unshift: ' + b);
+        a.splice(2,3);
+        alert('After splice(2,3): '+ a);
+        alert('After concat: ' + a.concat(b));
+        alert('After join: ' + a.join('-'));
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
