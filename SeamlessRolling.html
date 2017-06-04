@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>MoveTest_2</title>
+    <title>Seamless rolling</title>
     <style>
         * {margin:0; padding: 0;}
         #div1 {width: 712px; height: 108px;margin:100px auto; position:relative;background:black;}
@@ -13,10 +13,14 @@
         window.onload = function()
         {
             var oDiv = document.getElementById('div1');
-            var oUI = oDiv.getElementsByTagName('ul')[0];
-
+            var oUl = oDiv.getElementsByTagName('ul')[0];
+            var aLi = oUl.getElementsByTagName('li');
+            oUl.innerHTML = oUl.innerHTML + oUl.innerHTML;
+            oUl.style.width = aLi[0].offsetWidth * aLi.length + 'px'
+//            alert(aLi[0].offsetWidth);
+//            alert(aLi.length);
             setInterval(function () {
-                oUI.style.left = oUI.offsetLeft - 2 + 'px';
+                oUl.style.left = oUl.offsetLeft - 2 + 'px';
             },30);
         }
     </script>
