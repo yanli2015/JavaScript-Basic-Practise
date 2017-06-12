@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DOM_Test1</title>
+    <script>
+        window.onload = function()
+        {
+            var oUl = document.getElementById('ul1');
+//            alert(oUl.parentNode);
+            for (var i = 0; i < oUl.children.length; i++)
+            {
+
+                    oUl.children[i].style.background = 'grey';
+
+            }
+            var aA = document.getElementsByTagName('a');
+            for (var i = 0; aA.length; i++)
+            {
+                aA[i].onclick = function () {
+                    this.parentNode.style.display = 'none';
+                }
+            }
+        }
+    </script>
+
+</head>
+<body>
+<ul id = 'ul1'>
+    <li>aaa<a href = 'javascript:;'>hide</a></li>
+    <li>bbb<a href = 'javascript:;'>hide</a></li>
+    <li>ccc<a href = 'javascript:;'>hide</a></li>
+    <li>ddd<a href = 'javascript:;'>hide</a></li>
+    <li>eee<a href = 'javascript:;'>hide</a></li>
+</ul>
+</body>
+</html>

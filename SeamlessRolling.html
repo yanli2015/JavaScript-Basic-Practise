@@ -23,6 +23,33 @@
 //            alert(aLi.length);
 //            alert(oUl.offsetLeft);
 //            alert(oUl.offsetWidth);
+
+            var move2 = function () {
+                if (oUl.offsetLeft < -oUl.offsetWidth / 2)
+                {
+                    oUl.style.left = '0';
+                }
+                if (oUl.offsetLeft > 0)
+                {
+                    oUl.style.left = - oUl.offsetLeft/2 + 'px';
+                }
+                oUl.style.left = oUl.offsetLeft + speed + 'px';
+            };
+
+            var move3 = function () {
+
+          
+                if (oUl.offsetLeft < -oUl.offsetWidth / 2)
+                {
+                    oUl.style.left = '0';
+                }
+                if (oUl.offsetLeft > 0)
+                {
+                    oUl.style.left = - oUl.offsetLeft/2 + 'px';
+                }
+                oUl.style.left = oUl.offsetLeft + speed + 'px';
+            };
+
             function move() {
                 if (oUl.offsetLeft < -oUl.offsetWidth / 2)
                 {
@@ -34,17 +61,17 @@
                 }
                     oUl.style.left = oUl.offsetLeft + speed + 'px';
             }
-            timer = setInterval(move,30);
+            timer = setInterval(move2,30);
             oDiv.onmousemove = function() {
                 clearTimeout(timer);
-            }
+            };
             oDiv.onmouseout = function () {
                 timer = setInterval(move, 30);
-            }
+            };
             document.getElementsByTagName('a')[0].onclick = function()
             {
                 speed = -2;
-            }
+            };
             document.getElementsByTagName('a')[1].onclick = function()
             {
                 speed = 2;
