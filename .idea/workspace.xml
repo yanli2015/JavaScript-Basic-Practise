@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7048d17-1d8c-4ba1-9e61-6f32a07417df" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Move_Test_2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Table_Sorting_Test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ArrayTest.html" afterPath="$PROJECT_DIR$/Array_Test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DOM_Test1.html" afterPath="$PROJECT_DIR$/DOM_Test_1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JsonTest.html" afterPath="$PROJECT_DIR$/Json_Test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/LoopTest.html" afterPath="$PROJECT_DIR$/Loop_Test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MoveTest_1.html" afterPath="$PROJECT_DIR$/Move_Test_1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ReturnValueTest.html" afterPath="$PROJECT_DIR$/Return_Value_Test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SeamlessRolling.html" afterPath="$PROJECT_DIR$/SeamlessRolling_Test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SelectAllCheckBox.html" afterPath="$PROJECT_DIR$/SelectAllCheckBox_Test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Tab.html" afterPath="$PROJECT_DIR$/Tab_Test.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/TableTest.html" afterPath="$PROJECT_DIR$/Table_Test.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Move_Test_2.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Table_Sorting_Test.html" afterPath="$PROJECT_DIR$/Table_Sorting_Test.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,38 +18,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Table_Test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Table_Test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="554">
-              <caret line="107" column="8" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="107" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Move_Test_2.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Move_Test_2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Table_Sorting_Test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Table_Sorting_Test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="26" column="52" lean-forward="true" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,8 +39,8 @@
         <option value="$PROJECT_DIR$/DOM_Test1.html" />
         <option value="$PROJECT_DIR$/TableTest.html" />
         <option value="$PROJECT_DIR$/Table_SortingTest.html" />
-        <option value="$PROJECT_DIR$/Table_Sorting_Test.html" />
         <option value="$PROJECT_DIR$/Move_Test_2.html" />
+        <option value="$PROJECT_DIR$/Table_Sorting_Test.html" />
       </list>
     </option>
   </component>
@@ -92,8 +51,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="622" />
-    <option name="y" value="25" />
+    <option name="x" value="588" />
+    <option name="y" value="22" />
     <option name="width" value="852" />
     <option name="height" value="810" />
   </component>
@@ -129,8 +88,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,6 +203,8 @@
       <workItem from="1497101890872" duration="8699000" />
       <workItem from="1497301636778" duration="732000" />
       <workItem from="1497304231553" duration="1327000" />
+      <workItem from="1497318683099" duration="1229000" />
+      <workItem from="1497906151574" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <created>1496609759877</created>
@@ -256,20 +217,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16145000" />
+    <option name="totallyTimeSpent" value="17379000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="622" y="25" width="852" height="810" extended-state="0" />
+    <frame x="588" y="22" width="852" height="810" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -312,6 +273,23 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Table_Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1605">
+          <caret line="107" column="8" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="107" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Table_Sorting_Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="52" lean-forward="true" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Move_Test_2.html" />
     <entry file="file://$PROJECT_DIR$/Table_Test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -388,12 +366,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Table_Sorting_Test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="26" column="52" lean-forward="true" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        <state relative-caret-position="555">
+          <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Move_Test_2.html" />
     <entry file="file://$PROJECT_DIR$/Table_Test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="554">
@@ -402,10 +381,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Move_Test_2.html">
+    <entry file="file://$PROJECT_DIR$/Return_Value_Test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
