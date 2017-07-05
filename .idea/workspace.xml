@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7048d17-1d8c-4ba1-9e61-6f32a07417df" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Move_Test_2.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ajax_Test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SelectionTab_Test.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Table_Sorting_Test.html" afterPath="$PROJECT_DIR$/Table_Sorting_Test.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,11 +18,35 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Ajax_Test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ajax_Test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SelectionTab_Test.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SelectionTab_Test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -41,6 +65,9 @@
         <option value="$PROJECT_DIR$/Table_SortingTest.html" />
         <option value="$PROJECT_DIR$/Move_Test_2.html" />
         <option value="$PROJECT_DIR$/Table_Sorting_Test.html" />
+        <option value="$PROJECT_DIR$/Ajax_Test.js" />
+        <option value="$PROJECT_DIR$/Ajax_Test.html" />
+        <option value="$PROJECT_DIR$/SelectionTab_Test.html" />
       </list>
     </option>
   </component>
@@ -51,8 +78,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="588" />
-    <option name="y" value="22" />
+    <option name="x" value="459" />
+    <option name="y" value="60" />
     <option name="width" value="852" />
     <option name="height" value="810" />
   </component>
@@ -110,8 +137,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.TableTest.html">
+  <component name="RunManager" selected="JavaScript Debug.SelectionTab_Test.html">
     <configuration default="false" name="TableTest.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/JavaScript-Basic-Practise/TableTest.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="SelectionTab_Test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript-Basic-Practise/SelectionTab_Test.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -180,12 +210,14 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.TableTest.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.SelectionTab_Test.html" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.TableTest.html" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.SelectionTab_Test.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.TableTest.html" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +236,7 @@
       <workItem from="1497301636778" duration="732000" />
       <workItem from="1497304231553" duration="1327000" />
       <workItem from="1497318683099" duration="1229000" />
-      <workItem from="1497906151574" duration="5000" />
+      <workItem from="1497906151574" duration="4092000" />
     </task>
     <task id="LOCAL-00001" summary="Updated">
       <created>1496609759877</created>
@@ -217,12 +249,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17379000" />
+    <option name="totallyTimeSpent" value="21466000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="588" y="22" width="852" height="810" extended-state="0" />
+    <frame x="459" y="60" width="852" height="810" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -386,6 +419,32 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax_Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ajax_Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SelectionTab_Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
